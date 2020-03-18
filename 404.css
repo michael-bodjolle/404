@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+*{
+    font-family: monospace;
+
+
+}
+.back
+{
+    background-image:url(undraw_cancel_u1it.svg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.size
+{
+    font-size: 300px;
+}
+.text
+{
+    font-size: 50px;
+}
+.Part
+{
+    display: flex;
+    flex-direction: column;
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: none;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: black 10px 10px 10px 5px;
+    max-width: 500px;
+    margin: auto;
+
+}   
+
+
+
+
